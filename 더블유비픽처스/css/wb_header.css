@@ -4,6 +4,8 @@
 header{
     width: 100%;
     height: 106px;
+    position: fixed;
+    /* fixed 210223 */
 }
 header>nav{
     width: 65%;
